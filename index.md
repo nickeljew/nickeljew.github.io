@@ -3,4 +3,4 @@
 
 ### React-Month-Picker
 
-demo
+[DEMO](/react-month-picker)
